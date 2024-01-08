@@ -1,0 +1,10 @@
+Web Page with all the resources for Node and NPM
+#course Set up
+https://byui-cit.github.io/wdd330/resources/course-setup-v2.html
+
+##how to download Node, NPM, etc
+https://byui-cit.github.io/advcss/lesson01/l01-software.html
+
+##Using command line
+https://byui-cit.github.io/advcss/resources/cmd-line-pc.html
+
